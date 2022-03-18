@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @MaftunaDadamirzayeva
-- 👀 I’m interested in IT and foreign languages.
-- 🌱 I’m currently learning JS 
+- 🖐 Hi, I’m @MaftunaDadamirzayeva.
+- 👩🏻‍🎓 Senior Student at NamSU.
+- 🌎 I’m interested in IT and Foreign languages.
+- 👍🏻 I can fluently speak in Russian and English.
+- 👩🏻‍💻 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on JS Frameworks.
-- 📫 How to reach me ...
+- 📫 How to reach me Elmaf1730@gmail.com.
+
 
 <!---
 MaftunaDadamirzayeva/MaftunaDadamirzayeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
